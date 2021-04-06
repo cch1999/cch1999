@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m a MSc student at Imperial College London studying Bioinformatics and Theoretical Systems Biology. My interests are in deep learning applied to solving problems in structural biology and drug design.
+
+
+- 📫 How to reach me: 
+  - twitter: [@charlieharris01](https://twitter.com/charlieharris01) 
+  - my website: [jamasb.io](http://jamasb.io/)
+  - linkedin: [in/jamasb](https://www.linkedin.com/in/jamasb/)
+  - email: <charles.harris17@imperial.ac.uk>
+
 <!--
 **cch1999/cch1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
