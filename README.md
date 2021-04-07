@@ -4,9 +4,8 @@
 
 
 - 📫 How to reach me: 
-  - twitter: [@charlieharris01](https://twitter.com/charlieharris01) 
-  - my website: [jamasb.io](http://jamasb.io/)
-  - linkedin: [in/jamasb](https://www.linkedin.com/in/jamasb/)
+  - twitter: [@charlieharris01](https://twitter.com/charlieharris01)
+  - linkedin: [in/charlieharris](https://www.linkedin.com/in/charlie-harris-388285156/)
   - email: <charles.harris17@imperial.ac.uk>
 
 <!--
