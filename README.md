@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m a MSc student at Imperial College London studying Bioinformatics and Theoretical Systems Biology. My interests are in deep learning applied to solving problems in structural biology and drug design.
+- 🔭 I’m a MSc student at Imperial College London studying Bioinformatics and Theoretical Systems Biology. My interests are in deep learning applied to solving problems in structural biology and drug design. I am currently workin on geometric deep learning for drug design in the lab of Prof Michael Bronstein.
 
+- 🌱 I will soon be moving to the University of Cambridge where I will be a PhD student at the [Cambridge Centre for AI in Medicine](ccaim.cam.ac.u) and be jointly supervised by Prof Sir Tom Blundell and Prof Pietro Lio.
 
 - 📫 How to reach me: 
   - twitter: [@charlieharris01](https://twitter.com/charlieharris01)
   - linkedin: [in/charlieharris](https://www.linkedin.com/in/charlie-harris-388285156/)
   - email: <charles.harris17@imperial.ac.uk>
+  - website: <cch1999.github.io>
 
 <!--
 **cch1999/cch1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
