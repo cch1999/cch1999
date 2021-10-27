@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I'm a PhD student at the University of Cambridge in the [Cambridge Centre for AI in Medicine](www.ccaim.cam.ac.uk). My interests are in deep learning applied to solving problems in structural biology and drug design.
+- 🔭 I'm a PhD student at the University of Cambridge in the [Cambridge Centre for AI in Medicine](www.ccaim.cam.ac.uk). My interests are in deep learning applied to solving problems in structural biology and drug design. I am supervised by Prof Sir Tom Blundell and Prof Pietro Lio.
 
-- 🌱 I will soon be moving to the University of Cambridge where I will be a PhD student at the [Cambridge Centre for AI in Medicine](ccaim.cam.ac.u) and be jointly supervised by Prof Sir Tom Blundell and Prof Pietro Lio.
+- 🌱 I was previously at Imperial College London where I gained a background in Biochemistry and Structural Biology. Whilst there, I developed novel Geometric Deep Learning methods for protein structure under the supervision of Prof Michael Bronstein.
 
 - 📫 How to reach me: 
   - twitter: [@charlieharris01](https://twitter.com/charlieharris01)
