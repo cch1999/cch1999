@@ -7,7 +7,7 @@
 - 📫 How to reach me: 
   - twitter: [@charlieharris01](https://twitter.com/charlieharris01)
   - linkedin: [in/charlieharris](https://www.linkedin.com/in/charlie-harris-388285156/)
-  - email: <cch57@cam.ac.uk>
+  - email: <cch57 [at] cam dot ac dot uk>
   - website: [cch1999.github.io](www.cch1999.github.io)
 
 <!--
